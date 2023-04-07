@@ -3,40 +3,48 @@
 		"songs": {
 			"1": {
 				"name": "The Meower Theme (p.bass loop)",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/1.mp3",
+				"len": "34.821"
 			},
 			"2": {
 				"name": "piano ear grapes",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/2.mp3",
+				"len": "66.795"
 			},
 			"3": {
 				"name": "Meower Remix (p.bass loop remix)",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/3.mp3",
+				"len": "24.633"
 			},
 			"4": {
 				"name": "untitled (?)",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/4.mp3",
+				"len": "63.033"
 			},
 			"5": {
-				"name": "meower.",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"name": "Meower.",
+				"url": "https://api.meower.org/static/bgm/5.mp3",
+				"len": "119.616"
 			},
 			"6": {
 				"name": "untitled2 (?)",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/6.mp3",
+				"len": "202.161"
 			},
 			"7": {
 				"name": "meower is (not) dead",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/7.mp3",
+				"len": "200.698"
 			},
 			"8": {
 				"name": "the elevator of time",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/8.mp3",
+				"len": "93.675"
 			},
 			"9": {
 				"name": "meower is (not) dead (instrumental)",
-				"url": "https://api.meower.org/static/bgm/{}.mp3"
+				"url": "https://api.meower.org/static/bgm/9.mp3",
+				"len": "90.592"
 			}
 		},
-		"entries": 9
-}
+	"ent
