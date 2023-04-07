@@ -1,0 +1,42 @@
+{
+	"name": "Meower",
+		"songs": {
+			"1": {
+				"name": "The Meower Theme (p.bass loop)",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"2": {
+				"name": "piano ear grapes",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"3": {
+				"name": "Meower Remix (p.bass loop remix)",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"4": {
+				"name": "untitled (?)",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"5": {
+				"name": "meower.",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"6": {
+				"name": "untitled2 (?)",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"7": {
+				"name": "meower is (not) dead",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"8": {
+				"name": "the elevator of time",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			},
+			"9": {
+				"name": "meower is (not) dead (instrumental)",
+				"url": "https://api.meower.org/static/bgm/{}.mp3"
+			}
+		},
+		"entries": 9
+}
