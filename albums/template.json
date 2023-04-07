@@ -1,0 +1,13 @@
+{
+	"name": "Mayonnaise", //Name of your album
+  "author": "Jhon Doe"  //Author(optional)
+		"songs": {          //Songs 
+			"1": {            //Song #1
+				"name": "Mayonnaise on an escalator",            //Title of song
+				"url": "https://api.meower.org/static/bgm/1.mp3",//Url to audio file of song
+				"len": "34.821"                                  //Length of song(in seconds)
+			}
+		},
+	"enteries": 1,               //Number of songs in the album(optional)
+	"description": "Mayonnaise"  //Description of the album
+}
